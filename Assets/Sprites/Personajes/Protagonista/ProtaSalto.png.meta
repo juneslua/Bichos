@@ -1,0 +1,751 @@
+fileFormatVersion: 2
+guid: 42255e045597b6b41a70f26f98f81f3f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 176806208815357584
+    second: ProtaSalto_0
+  - first:
+      213: -3435935398085952497
+    second: ProtaSalto_1
+  - first:
+      213: -2805977274968730721
+    second: ProtaSalto_2
+  - first:
+      213: -2868365908498818402
+    second: ProtaSalto_3
+  - first:
+      213: -7128612871285570990
+    second: ProtaSalto_4
+  - first:
+      213: 6265702585230288046
+    second: ProtaSalto_5
+  - first:
+      213: 768740410782111697
+    second: ProtaSalto_6
+  - first:
+      213: 7772827541029184397
+    second: ProtaSalto_7
+  - first:
+      213: -337259443538834704
+    second: ProtaSalto_8
+  - first:
+      213: 4866578760273411265
+    second: ProtaSalto_9
+  - first:
+      213: 6554180302969189382
+    second: ProtaSalto_10
+  - first:
+      213: 7682341139137470776
+    second: ProtaSalto_11
+  - first:
+      213: -4341410429024630549
+    second: ProtaSalto_12
+  - first:
+      213: 8729827190615043653
+    second: ProtaSalto_13
+  - first:
+      213: 7330590013254280518
+    second: ProtaSalto_14
+  - first:
+      213: -7905854053532567687
+    second: ProtaSalto_15
+  - first:
+      213: 7705455382550830199
+    second: ProtaSalto_16
+  - first:
+      213: 2598835957053518074
+    second: ProtaSalto_17
+  - first:
+      213: -8998384883810812356
+    second: ProtaSalto_18
+  - first:
+      213: 5812403360624682285
+    second: ProtaSalto_19
+  - first:
+      213: 1100155027182006051
+    second: ProtaSalto_20
+  - first:
+      213: -2444984679012812686
+    second: ProtaSalto_21
+  - first:
+      213: -119679201865223308
+    second: ProtaSalto_22
+  - first:
+      213: 5165344455946180956
+    second: ProtaSalto_23
+  - first:
+      213: 9077562959443911085
+    second: ProtaSalto_24
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 110
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ProtaSalto_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1658
+        width: 186
+        height: 263
+      alignment: 9
+      pivot: {x: 0.27, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c5be6e4d20631459c9a1e96d47f26e
+      internalID: 176806208815357584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtaSalto_1
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1656
+        width: 190
+        height: 239
+      alignment: 9
+      pivot: {x: 0.27, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699b3105f3a254148b9faf61ed43c4e0
+      internalID: -3435935398085952497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtaSalto_2
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1658
+        width: 197
+        height: 207
+      alignment: 9
+      pivot: {x: 0.27, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff22f7e471284c469fc5a30a414e5bc
+      internalID: -2805977274968730721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtaSalto_3
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1661
+        width: 198
+        height: 178
+      alignment: 9
+      pivot: {x: 0.27, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49bddc7cb152aa49bc04590c17a1d60
+      internalID: -2868365908498818402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtaSalto_4
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 1660
+        width: 195
+        height: 162
+      alignment: 9
+      pivot: {x: 0.27, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7cc4aa211edaf9499e292cc3bde0472
+      internalID: -7128612871285570990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtaSalto_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1257
+        width: 209
+        height: 146
+      alignment: 9
+      pivot: {x: 0.27, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f092ebd93b3eb43a72f36572dc06d8
+      internalID: 6265702585230288046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtaSalto_6
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1238
+        width: 192
+        height: 224
+      alignment: 9
+      pivot: {x: 0.27, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff6980d69acc16438f9e40cb8e5497b
+      internalID: 768740410782111697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtaSalto_7
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1270
+        width: 181
+        height: 257
+      alignment: 9
+      pivot: {x: 0.27, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905489dea07151e49accba44065b9fca
+      internalID: 7772827541029184397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtaSalto_8
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1301
+        width: 158
+        height: 285
+      alignment: 9
+      pivot: {x: 0.27, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0572acd83c064144382ad583d50c2fb0
+      internalID: -337259443538834704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtaSalto_9
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1322
+        width: 126
+        height: 302
+      alignment: 9
+      pivot: {x: 0.27, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5cf13fa93e78474db1bc46e334a6aa0
+      internalID: 4866578760273411265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtaSalto_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 918
+        width: 108
+        height: 307
+      alignment: 9
+      pivot: {x: 0.27, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869f70a1e9307274c916f5baccd6abd2
+      internalID: 6554180302969189382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtaSalto_11
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 918
+        width: 110
+        height: 309
+      alignment: 9
+      pivot: {x: 0.27, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144ab9d153a5d3343b5151f94042aa9c
+      internalID: 7682341139137470776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtaSalto_12
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 918
+        width: 126
+        height: 307
+      alignment: 9
+      pivot: {x: 0.27, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371c7e3eb7d96c84dbd9d0691a7900d4
+      internalID: -4341410429024630549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtaSalto_13
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 918
+        width: 140
+        height: 304
+      alignment: 9
+      pivot: {x: 0.27, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d3404c003a6074d8a34ac23176a564
+      internalID: 8729827190615043653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtaSalto_14
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 907
+        width: 159
+        height: 295
+      alignment: 9
+      pivot: {x: 0.27, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776a8dd4a883d6a4790251a8a8263aad
+      internalID: 7330590013254280518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtaSalto_15
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 486
+        width: 178
+        height: 281
+      alignment: 9
+      pivot: {x: 0.27, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e0a57f23ed1f843880d69e8ca40522
+      internalID: -7905854053532567687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtaSalto_16
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 472
+        width: 196
+        height: 267
+      alignment: 9
+      pivot: {x: 0.27, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa9a662738356942a2a125b04302375
+      internalID: 7705455382550830199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtaSalto_17
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 459
+        width: 215
+        height: 247
+      alignment: 9
+      pivot: {x: 0.27, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86abe14730fc8fb4196ccb37b8a9672c
+      internalID: 2598835957053518074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtaSalto_18
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 443
+        width: 220
+        height: 222
+      alignment: 9
+      pivot: {x: 0.27, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0c3d3f6797cb849923ed1748403b33
+      internalID: -8998384883810812356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtaSalto_19
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 440
+        width: 215
+        height: 188
+      alignment: 9
+      pivot: {x: 0.27, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f77f18e92ecd7a40b254917dcabd736
+      internalID: 5812403360624682285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtaSalto_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 23
+        width: 205
+        height: 165
+      alignment: 9
+      pivot: {x: 0.27, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd609cc796fe7c4e99b0d4a3e1b9fb2
+      internalID: 1100155027182006051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtaSalto_21
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 23
+        width: 201
+        height: 188
+      alignment: 9
+      pivot: {x: 0.27, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5288c1cff3fab240ac4a5c292b48a4a
+      internalID: -2444984679012812686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtaSalto_22
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 17
+        width: 197
+        height: 233
+      alignment: 9
+      pivot: {x: 0.27, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1ba8dab4e6db14388d299b6ce91bd2
+      internalID: -119679201865223308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtaSalto_23
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 15
+        width: 169
+        height: 275
+      alignment: 9
+      pivot: {x: 0.27, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74824fb0f4a4c894992cde01794aac1a
+      internalID: 5165344455946180956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtaSalto_24
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 21
+        width: 159
+        height: 282
+      alignment: 9
+      pivot: {x: 0.27, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97eb12e9b6698d44caccf99c56b159bf
+      internalID: 9077562959443911085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

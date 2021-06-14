@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 8b273bdb36f88c04eac2701d0e69780e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: GOOD BRUSH
+  fontNames:
+  - GOOD BRUSH
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3d5e12f41c97cbe439d1e215786f99cb, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

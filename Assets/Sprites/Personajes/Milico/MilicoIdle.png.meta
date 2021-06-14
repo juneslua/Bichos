@@ -1,0 +1,469 @@
+fileFormatVersion: 2
+guid: 062c4d425737627489c7a3d0a9fc444a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2293086943825520989
+    second: MilicoIdle_0
+  - first:
+      213: -2229776271469855673
+    second: MilicoIdle_1
+  - first:
+      213: -4101802092911439032
+    second: MilicoIdle_2
+  - first:
+      213: -6873933228439143102
+    second: MilicoIdle_3
+  - first:
+      213: 6480691303752102854
+    second: MilicoIdle_4
+  - first:
+      213: -1402424366285334764
+    second: MilicoIdle_5
+  - first:
+      213: 5977543168937390188
+    second: MilicoIdle_6
+  - first:
+      213: 6355205116956352617
+    second: MilicoIdle_7
+  - first:
+      213: 1375055329632141803
+    second: MilicoIdle_8
+  - first:
+      213: -2802351622758035569
+    second: MilicoIdle_9
+  - first:
+      213: 1362422664264934872
+    second: MilicoIdle_10
+  - first:
+      213: 6032914682867045944
+    second: MilicoIdle_11
+  - first:
+      213: 4454064417574361852
+    second: MilicoIdle_12
+  - first:
+      213: -8712917522448311808
+    second: MilicoIdle_13
+  - first:
+      213: -7803281855316854486
+    second: MilicoIdle_14
+  - first:
+      213: 6138099690102198292
+    second: MilicoIdle_15
+  - first:
+      213: -2337979108516975841
+    second: MilicoIdle_16
+  - first:
+      213: 2474386118563613773
+    second: MilicoIdle_17
+  - first:
+      213: -7034824878843851098
+    second: MilicoIdle_18
+  - first:
+      213: 3893722757295045831
+    second: MilicoIdle_19
+  - first:
+      213: -4198741681718343834
+    second: MilicoIdle_20
+  - first:
+      213: -6782490395763615335
+    second: MilicoIdle_21
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MilicoIdle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1275
+        width: 381
+        height: 625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040ececfd77dcca438b3f7e95533f7a8
+      internalID: 2293086943825520989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilicoIdle_1
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1288
+        width: 375
+        height: 612
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d32e98956f131240a7abdc44235c57d
+      internalID: -2229776271469855673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilicoIdle_2
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1279
+        width: 380
+        height: 621
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7610000f4bf8b479aa0ebd84552a87
+      internalID: -4101802092911439032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilicoIdle_3
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 1285
+        width: 377
+        height: 615
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311ef772b4506a94a8bfec973362b8a6
+      internalID: -6873933228439143102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilicoIdle_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 639
+        width: 380
+        height: 623
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13038a31b022748409e0ce3dc0495525
+      internalID: 6480691303752102854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilicoIdle_5
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 663
+        width: 375
+        height: 611
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fe551efcb67cf46bd0340740ab2b86
+      internalID: -1402424366285334764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilicoIdle_6
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 645
+        width: 379
+        height: 620
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee950cf6013eb24e88c99037efe88ae
+      internalID: 5977543168937390188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilicoIdle_7
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 657
+        width: 376
+        height: 614
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e4a25aa22d88346bf90ab074d933ad
+      internalID: 6355205116956352617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilicoIdle_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 378
+        height: 618
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db158dff9c36b2640b044f97f0568187
+      internalID: 1375055329632141803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilicoIdle_9
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 8
+        width: 377
+        height: 617
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d60f5b3e864edd498341dc6281a460e
+      internalID: -2802351622758035569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilicoIdle_10
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 11
+        width: 378
+        height: 620
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8e5a5e07c05d547aefb67c3235dcf1
+      internalID: 1362422664264934872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilicoIdle_11
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 34
+        width: 374
+        height: 609
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16893efb1bb759646a383920ef430621
+      internalID: 6032914682867045944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

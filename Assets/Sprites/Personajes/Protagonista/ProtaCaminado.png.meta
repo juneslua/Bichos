@@ -1,0 +1,538 @@
+fileFormatVersion: 2
+guid: c0605787771a3e94abcdd83550eced4a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2141307269083509584
+    second: ProtaCaminado_0
+  - first:
+      213: -8461137417194535876
+    second: ProtaCaminado_1
+  - first:
+      213: -8009731155525643762
+    second: ProtaCaminado_2
+  - first:
+      213: 8032626406346300696
+    second: ProtaCaminado_3
+  - first:
+      213: 494524268114551694
+    second: ProtaCaminado_4
+  - first:
+      213: -593696755648635102
+    second: ProtaCaminado_5
+  - first:
+      213: 8217325403262159644
+    second: ProtaCaminado_6
+  - first:
+      213: -890349301065444551
+    second: ProtaCaminado_7
+  - first:
+      213: -7295205664433971316
+    second: ProtaCaminado_8
+  - first:
+      213: -4020694006720001609
+    second: ProtaCaminado_9
+  - first:
+      213: 2005385333054151355
+    second: ProtaCaminado_10
+  - first:
+      213: 8263906633769256537
+    second: ProtaCaminado_11
+  - first:
+      213: -4655708583211689216
+    second: ProtaCaminado_12
+  - first:
+      213: 4167881412782731264
+    second: ProtaCaminado_13
+  - first:
+      213: 3478336975018947622
+    second: ProtaCaminado_14
+  - first:
+      213: -5418127927670986268
+    second: ProtaCaminado_15
+  - first:
+      213: -4799766999185801201
+    second: ProtaCaminado_16
+  - first:
+      213: -3458378712849956830
+    second: ProtaCaminado_17
+  - first:
+      213: 5135443187694825021
+    second: ProtaCaminado_18
+  - first:
+      213: 3669804807031762647
+    second: ProtaCaminado_19
+  - first:
+      213: 1022212086417377094
+    second: ProtaCaminado_20
+  - first:
+      213: 2214323456474227694
+    second: ProtaCaminado_21
+  - first:
+      213: 5261495855229837887
+    second: ProtaCaminado_22
+  - first:
+      213: 4329532421613233138
+    second: ProtaCaminado_23
+  - first:
+      213: 3952651371241728260
+    second: ProtaCaminado_24
+  - first:
+      213: 117276609346793798
+    second: ProtaCaminado_25
+  - first:
+      213: -6769343253264994660
+    second: ProtaCaminado_26
+  - first:
+      213: -29925987193970704
+    second: ProtaCaminado_27
+  - first:
+      213: -1720201585526663935
+    second: ProtaCaminado_28
+  - first:
+      213: 7410426668556148045
+    second: ProtaCaminado_29
+  - first:
+      213: 2026946012638461456
+    second: ProtaCaminado_30
+  - first:
+      213: -1512480711079989533
+    second: ProtaCaminado_31
+  - first:
+      213: 7989233214225602980
+    second: ProtaCaminado_32
+  - first:
+      213: -3605909980982842194
+    second: ProtaCaminado_33
+  - first:
+      213: 4822638129659750946
+    second: ProtaCaminado_34
+  - first:
+      213: -6825736634336651088
+    second: ProtaCaminado_35
+  - first:
+      213: 7769344069958013581
+    second: ProtaCaminado_36
+  - first:
+      213: 1180066076666806137
+    second: ProtaCaminado_37
+  - first:
+      213: -6055391728616100571
+    second: ProtaCaminado_38
+  - first:
+      213: -3469177237316268172
+    second: ProtaCaminado_39
+  - first:
+      213: 1198466336876474295
+    second: ProtaCaminado_40
+  - first:
+      213: -7657390201458520813
+    second: ProtaCaminado_41
+  - first:
+      213: 2172995118595940269
+    second: ProtaCaminado_42
+  - first:
+      213: -1486048638070010000
+    second: ProtaCaminado_43
+  - first:
+      213: -4666621251961690847
+    second: ProtaCaminado_44
+  - first:
+      213: -209576803707280047
+    second: ProtaCaminado_45
+  - first:
+      213: -6250272168712752648
+    second: ProtaCaminado_46
+  - first:
+      213: 2620665022267675906
+    second: ProtaCaminado_47
+  - first:
+      213: 7293561203039382042
+    second: ProtaCaminado_48
+  - first:
+      213: -178891902809477715
+    second: ProtaCaminado_49
+  - first:
+      213: -2718073669896997055
+    second: ProtaCaminado_50
+  - first:
+      213: 6617030836948791102
+    second: ProtaCaminado_51
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ProtaCaminado_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1394
+        width: 401
+        height: 599
+      alignment: 9
+      pivot: {x: 0.27, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50ab87ec2cc92d468dbe4a14596df28
+      internalID: -2141307269083509584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtaCaminado_1
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1408
+        width: 401
+        height: 599
+      alignment: 9
+      pivot: {x: 0.27, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480e1463539585b4cbc5b2247ba036a4
+      internalID: -8461137417194535876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtaCaminado_2
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1417
+        width: 382
+        height: 616
+      alignment: 9
+      pivot: {x: 0.27, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db4f808aaec95d4f9c29744fbaf4a36
+      internalID: -8009731155525643762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtaCaminado_3
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1417
+        width: 375
+        height: 630
+      alignment: 9
+      pivot: {x: 0.27, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703372695b58ee94585ece89ecb13159
+      internalID: 8032626406346300696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtaCaminado_4
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 736
+        width: 382
+        height: 635
+      alignment: 9
+      pivot: {x: 0.27, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a8179ce3ce5fb4e97fe47042919784
+      internalID: 494524268114551694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtaCaminado_5
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 726
+        width: 395
+        height: 623
+      alignment: 9
+      pivot: {x: 0.27, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a1a9a9b7558784eb0d7fbbdd7fec11
+      internalID: -593696755648635102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtaCaminado_6
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 722
+        width: 401
+        height: 616
+      alignment: 9
+      pivot: {x: 0.27, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b055abe0abbfbab468177dec86e6ac0f
+      internalID: 8217325403262159644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtaCaminado_7
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 736
+        width: 391
+        height: 619
+      alignment: 9
+      pivot: {x: 0.27, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d6edff9470762449674b46bced38ea
+      internalID: -890349301065444551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtaCaminado_8
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 71
+        width: 379
+        height: 639
+      alignment: 9
+      pivot: {x: 0.27, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66db23bd95821f84d89d1a13b699837b
+      internalID: -7295205664433971316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtaCaminado_9
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 70
+        width: 379
+        height: 646
+      alignment: 9
+      pivot: {x: 0.27, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ada954997afcc4d89fbe29eca76a52
+      internalID: -4020694006720001609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtaCaminado_10
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 66
+        width: 385
+        height: 631
+      alignment: 9
+      pivot: {x: 0.27, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea3f904a027d78469d84daa7acb43d9
+      internalID: 2005385333054151355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
